@@ -529,6 +529,6 @@ public class ParallelStreamExample {
 
 ---
 
-**Author:** Java Backend Developer
+**Author:** Saranya Sakthivel
 
 **Technologies:** Java 8, Functional Programming, Stream API, Collections, Concurrency
